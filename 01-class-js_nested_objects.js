@@ -43,4 +43,7 @@ const classroom = {
 
 console.log(classroom.carlos.friends.length)
 
-for (const friend of classroom.carol.friends) console.log(friend.name)
+for (const friend of classroom.
+    carol
+    .friends) console.log(friend.name)
+    
